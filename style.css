@@ -6,10 +6,9 @@ body {
   height: 500px;
   border: 2px dashed cornflowerblue;
   position: relative;
-  margin: 20px auto;
+  margin: 20 auto;
 }
 .rectangle {
-  position: relative;
   border: 20px solid purple;
   background-color: cornflowerblue;
   width: 50%;
